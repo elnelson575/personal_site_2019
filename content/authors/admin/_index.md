@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: University of Chicago - Master of Science in Computational Analysis and Public Policy (MSCAPP)
-  url: ""
+  url: "https://harris.uchicago.edu/academics/programs-degrees/degrees/ms-computational-analysis-and-public-policy-mscapp"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include data analysis for public policy, civic software development, R Shiny, and environmental issues.
