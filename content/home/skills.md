@@ -29,6 +29,16 @@ subtitle = ""
   icon_pack = "fab"
   name = "Docker"
   
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  
+  [[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  
   [[feature]]
   icon = "tasks"
   icon_pack = "fas"

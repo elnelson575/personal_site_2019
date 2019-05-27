@@ -22,15 +22,17 @@ date_format = "Jan 2006"
   company = "Deloitte Consulting LLP: Federal Strategy & Analytics"
   company_url = ""
   location = "Washington, D.C. Metro Area"
-  date_start = "2017-08-17"
+  date_start = "2018-05-01"
   date_end = ""
   description = """
   Responsibilities include:
-
+  
+  * Led effort to Dockerize legacy and current applications for more sustainable maintenance and deployment
   * Lead developer of client-facing web-based optimization tool that dynamically incorporates user-input parameters into an optimization for resource planning
   * Responsible for optimization portion of model development, including data manipulation, regression analysis, and constraint coding
   * Supervise two team members performing R and R Shiny development tasks for FY20 tool development cycle
   * Constructed interactive charts and tables in R Shiny for clients to view, monitor, and download model outputs
+  * Delivered trainings for internal analytics training group, including an “Intro to R Shiny” class
 
   """
 
@@ -39,8 +41,8 @@ date_format = "Jan 2006"
   company = "Deloitte Consulting LLP"
   company_url = ""
   location = "Arlington, VA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2015-11-01"
+  date_end = "2018-05-01"
   description = """
   Responsibilities included:
   
@@ -53,6 +55,7 @@ date_format = "Jan 2006"
   * Led development of briefings for senior agency executives, including data visualizations and analyses
   * Led new data management and documentation process which allowed for improved integration with agency partners
   * Scoped one-year and three-year plans for future development of model, including data management, additional analyses, and stakeholder integration plans
+  * Built and delivered trainings for groups of 15-30 people on topics including terrorist groups, tactics, and targets and the use of modeling and simulation
 """
 
 [[experience]]
@@ -60,8 +63,8 @@ date_format = "Jan 2006"
   company = "Deloitte Consulting LLP"
   company_url = ""
   location = "Arlington, VA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2015-10-01"
+  date_end = "2015-11-01"
   description = """
   Responsibilities included:
   
@@ -74,8 +77,8 @@ date_format = "Jan 2006"
   company = "Deloitte Consulting LLP"
   company_url = ""
   location = "Arlington, VA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2015-08-17"
+  date_end = "2016-10-01"
   description = """
   Responsibilities included:
   
@@ -85,19 +88,6 @@ date_format = "Jan 2006"
 
 """
 
-[[experience]]
-  title = "Additonal Activities"
-  company = "Deloitte Consulting LLP"
-  company_url = ""
-  location = "Arlington, VA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """
-  Responsibilities included:
-  
-  * Built and delivered trainings for groups of 15-30 people on topics including terrorist groups, tactics, and targets and the use of modeling and simulation
- * Delivered trainings for internal analytics training group, including an “Intro to R Shiny” class
-"""
 
 [[experience]]
   title = "Research Assistant"
@@ -145,22 +135,6 @@ date_format = "Jan 2006"
   * Wrote weekly economic analyses on current events, including the effectiveness of sanctions on Iran and the Cypriot banking crisis
   * Produced analyses for senior bureau officials on topics such as import substitution policies in Nigeria and the effect of air connectivity on trade costs
   * Managed social media and web content including social media campaigns
-
-"""
-
-[[experience]]
-  title = "Research Intern"
-  company = "Hudson Institute"
-  company_url = ""
-  location = "Washington, DC"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """
-  Responsibilities included:
-  
-  * Wrote detailed research papers on international military and security issues, especially regarding the former Soviet Union
- * Edited manuscripts of forthcoming publications for grammatical and factual errors
-
 
 """
 
