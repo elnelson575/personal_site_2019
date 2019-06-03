@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Arlington, VA"
   date_start = "2015-08-17"
-  date_end = "2016-10-01"
+  date_end = "2015-10-01"
   description = """
   Responsibilities included:
   
@@ -94,8 +94,8 @@ date_format = "Jan 2006"
   company = "Institute for European, Russian, and Eurasian Studies (IERES)"
   company_url = ""
   location = "Washington, D.C."
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2015-01-01"
+  date_end = "2015-12-31"
   description = """
   Responsibilities included:
   
@@ -112,8 +112,8 @@ date_format = "Jan 2006"
   company = "U.S. Special Inspector General for Afghanistan Reconstruction"
   company_url = ""
   location = "Arlington, VA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2014-06-01"
+  date_end = "2014-09-01"
   description = """
   Responsibilities included:
   
@@ -127,8 +127,8 @@ date_format = "Jan 2006"
   company = "U.S. Department of State, Bureau of Economic and Business Affairs, Office of Economic Policy Analysis and Public Diplomacy (EPPD)"
   company_url = ""
   location = "Washington, DC"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2013-01-01"
+  date_end = "2013-05-01"
   description = """
   Responsibilities included:
   
