@@ -23,7 +23,7 @@ bio: My interests include data analysis for public policy, civic software develo
 interests:
 - Data analysis for social good
 - Application development
-- Image analysis
+- Ethical algorithm development
 - R Shiny
 
 education:
@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Liz Nelson is a student at the University of Chicago studying public policy and computer science. She previously worked as a consultant for federal agencies, modeling complex security systems and optiming large-scale resource allocation problems. She is passionate about data ethics and the use of quantitative modeling to fuel more effective allocation of and access to critical public services.
+Liz Nelson is Master of Science in Computational Analysis and Public Policy (MS-CAPP) candidate at the University of Chicago, Harris School of Public Policy, studying public policy and computer science. She previously worked as a consultant for federal agencies, modeling complex security systems and optiming large-scale resource allocation problems. She is passionate about data ethics and the use of quantitative modeling to fuel better administration of government services.
 
