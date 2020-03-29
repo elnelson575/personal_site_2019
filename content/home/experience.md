@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington, D.C. Metro Area"
   date_start = "2018-05-01"
-  date_end = ""
+  date_end = "2019-08-19"
   description = """
   Responsibilities include:
   
