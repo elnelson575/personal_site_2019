@@ -16,6 +16,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Fellow"
+  company = "BallotReady"
+  company_url = "https://www.ballotready.org/"
+  location = "Chicago, IL"
+  date_start = "2020-07-20"
+  date_end = "2020-09-24"
+  description = """
+  Responsibilities include:
+  
+  * Summer graduate fellowship analyzing information on elected positions across the ballot for ongoing elections nationwide.
+
+  """
+
+[[experience]]
   title = "Lead Developer (Senior Consultant)"
   company = "Deloitte Consulting LLP: Federal Strategy & Analytics"
   company_url = ""
